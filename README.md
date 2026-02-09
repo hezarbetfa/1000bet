@@ -11,10 +11,9 @@
 
 | نوع دسترسی | لینک مستقیم و امن |
 | :--- | :--- |
-| **🚀 ورود به سایت هزار بت** | [ورود مستقیم به پنل کاربری](https://hezarbetfa.com/) |
-| **🔗 آدرس جدید هزار بت** | [Hezarbetfa.com](https://hezarbetfa.com/) |
-| **📱 دانلود اپلیکیشن اندروید** | [دریافت مستقیم فایل نصب](https://hezarbetfa.com/) |
-| **🌍 لینک کمکی (Naked URL)** | https://hezarbetfa.com/ |
+| **🚀 ورود به سایت هزار بت** | [ورود به سایت هزار بت](https://hezarbetfa.com/) |
+| **🔗 آدرس جدید هزار بت** | [https://hezarbetfa.com/](https://hezarbetfa.com/) |
+| **📱 دانلود اپلیکیشن اندروید** | [هزار بت بدون فیلتر](https://hezarbetfa.com/) ||
 
 ---
 
